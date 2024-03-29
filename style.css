@@ -1,0 +1,29 @@
+.header-list-item:hover {
+  color: rgb(0, 68, 255);
+}
+button:hover {
+  color: white;
+  background-color: blue;
+}
+footer {
+    background-color: rgb(5, 11, 39);
+}
+.footer-item-text {
+    color: white;
+}
+.list-prosuct {
+    background-color: rgb(206, 206, 206);
+    border: 1px rgb(78, 75, 75);
+}
+.header {
+  border: 1px solid #ececec;
+}
+.footer-name {
+  font-family: "Raleway"
+}
+.body {
+  font-family: "Roboto"
+}
+.header-name {
+  font-family: "Raleway"
+}
